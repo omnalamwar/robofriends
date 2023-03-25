@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to left, hsla(221, 100%, 10%, 1) 0%, hsla(186, 49%, 27%, 1) 100%);    /*Get the color gradient from any website*/
 }
 
 code {
